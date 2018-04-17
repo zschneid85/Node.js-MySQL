@@ -34,13 +34,13 @@ The Add to Inventory option allows the user to select a given item ID and add ad
 
 The Add New Product option allows the user to enter details about a new product which will be entered into the database upon completion of the form.
 
-To run the manager interface please follow the steps below:
+<h1>To run the manager interface please follow the steps below:
 
 https://github.com/zschneid85/Node.js-MySQL.git
 cd bamazon
 npm install
 node bamazonManager.js
-Bamazon Demo
+Bamazon Demo<h1>
 
 You can download and watch the demo of the Bamazon customer and manager interfaces at the link below. Make sure to download the video, as opposed to watching it in your Browser, which will display a compressed version making the CLI output illegible.
 
