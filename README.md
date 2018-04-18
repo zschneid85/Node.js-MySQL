@@ -6,7 +6,7 @@ This application implements a simple command line based storefront using the npm
 
 ### MySQL Database Setup
 
-Once you have MySQL isntalled, you will be able to create the *Bamazon* database and the *products* table with the SQL code found in [Bamazon.sql](Bamazon.sql). Run this code inside your MySQL client like [phpMyAdmin](localhost:8888/phpMyAdmin/?lang=en) to populate the database, then you will be ready to proceed with running the Bamazon customer and manager interfaces.
+Once you have MySQL isntalled, you will be able to create the *Bamazon* database and the *products* table with the SQL code found in [bamazon.sql](Bamazon.sql). Run this code inside your MySQL client like [phpMyAdmin](localhost:8888/phpMyAdmin/?lang=en) to populate the database, then you will be ready to proceed with running the Bamazon customer and manager interfaces.
 
 ### Customer Interface
 
