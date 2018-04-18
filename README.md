@@ -14,7 +14,7 @@ The customer interface allows the user to view the current inventory of store it
 
 To run the customer interface please follow the steps below:
 
-	https://github.com/zschneid85/Node.js-MySQL.git
+	https://zschneid85.github.io/Node.js-MySQL/
 	cd bamazon
 	npm install
 	node bamazonCustomer.js
@@ -39,7 +39,7 @@ The **Add New Product** option allows the user to enter details about a new prod
 
 To run the manager interface please follow the steps below:
 
-	https://github.com/zschneid85/Node.js-MySQL.git
+	https://zschneid85.github.io/Node.js-MySQL/
 	cd bamazon
 	npm install
 	node bamazonManager.js
